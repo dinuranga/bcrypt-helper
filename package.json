@@ -1,0 +1,35 @@
+{
+  "name": "bcrypt-helper",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "bcrypt-helper-js: A lightweight JavaScript module simplifying bcrypt operations for secure password hashing and comparison in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinuranga/bcrypt-helper.git"
+  },
+  "keywords": [
+    "bcrypt",
+    "bcrypt",
+    "helper",
+    "easy",
+    "bcrypt",
+    "bcrypt",
+    "module"
+  ],
+  "author": "Maleesha Dinuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinuranga/bcrypt-helper/issues"
+  },
+  "homepage": "https://github.com/dinuranga/bcrypt-helper#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
